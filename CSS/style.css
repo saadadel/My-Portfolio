@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    color: #6d6d6d;
+}
+header{
+    color: #103553
+}
+header .col-4{
+    text-align: right;
+}
+header h1{
+    font-family: 'Shrikhand', cursive;
+}
+header h5{
+    font-family: 'Eater', cursive;
+}
+
+hr{
+    border: 0.5px #cbcbcb solid;
+}
+#bigimg{
+    background: url(../Images/main3.jpeg) fixed center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 20em;
+}
+.works .col-sm-4{
+    text-align: center;
+}
